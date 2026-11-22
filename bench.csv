@@ -1,2 +1,0 @@
-gpu,variant,filters,steps,ms_per_step,mupdates_per_s,gflops,gbytes_per_s,flop_per_byte,max_x_err_sigma,max_P_err
-"Tesla T4",fused_soa,65536,2,0.190768,343.538,589.511,119.551,4.931,2.315e-04,1.182e-07
